@@ -1,4 +1,4 @@
-#Aimed to calculate the height of each bounce of a rubber ball
+#Code created for the calculation of the height of each bounce of a rubber ball
 
 
 height = 100
