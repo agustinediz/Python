@@ -1,4 +1,4 @@
-#Code created to explore a list of urban trees of the city of BS AS.
+#Code created to explore and visualize a list of urban trees of the city of Bs As.
 
 import csv
 def leer_arboles(nombre_archivo):
